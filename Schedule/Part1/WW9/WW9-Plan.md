@@ -22,7 +22,7 @@ Bring Your Laptop and smart phone  to Class.
 
 | 时间段 |            内容         | 讲课 / 实践  | 分工  | 时间   |   备注 |
 | :---- | :-----------------------| :---------: | :---: |:-----: | -----------: |
-|   3    | 深度学习5-1：循环网络-1-2 (RNN-variants-LSTM-GRU )  |    讲课     |  CZ/GM   |   45 min |    |
+|   3    | 深度学习5-1：循环网络-1-2 (RNN-variants-LSTM-GRU )  |    讲课     |  CZ/GM   |   45 min |  [Torch.nn.LSTM](https://docs.pytorch.org/docs/stable/generated/torch.nn.LSTM.html)   |
 |   3    | 深度学习5-1-1：循环网络-11 (NTM-DNC )  |    (选读指导)     |  CZ/GM   |   0 min | 选读材料Alex Graves   |
 
 
