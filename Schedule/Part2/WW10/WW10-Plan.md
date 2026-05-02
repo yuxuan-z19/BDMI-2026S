@@ -43,7 +43,7 @@ Bring Your Laptop and smart phone  to Class.
 
 |时间段 |    内容    |   讲课 / 实践     |    分工  | 时间 |  备注       |
 | :----- | :-------------------: | :------: | :---: | ---: |---: |
-|   x    | 时频谱图分类-[课程大作业4-检查1](../../../Course-Projects/4_Project_spectrogram/BDMI-大作业4-说明.md)  | 讲课     |    ZKL |   辅导兼检查  |    |
+|   x    | 时频谱图分类-[课程大作业4-检查1](../../../Course-Projects/4_Project_spectrogram/BDMI-大作业4-说明.md)  | 讲课     |    RPZ  |   辅导兼检查  |    |
 
 |时间段 |    内容    |   讲课 / 实践     |    分工  | 时间 |  备注       |
 | :---   |   :----:    |   :----:    |    :----:    | ---: |---: |
