@@ -2,11 +2,11 @@
 
 以下会议的[截止时间](https://ccfddl.com/)均为 AoE（Anywhere on Earth (UTC-12)，即北京时间第二天的 20:00）。
 
-|                         会议名称                         |        CCF Rank        |  Abstract  | Submission |
-| :------------------------------------------------------: | :--------------------: | :--------: | :--------: |
-|   [AAAI'27](https://aaai.org/conference/aaai/aaai-27/)   |    CCF-A (人工智能)    | 2026-07-20 | 2026-07-27 |
-|    [BigData'26](https://bigdataieee.org/BigData2026/)    | CCF-C (交叉/综合/新兴) |    N/A     | 2026-08-21 |
-| [EAAI'27](https://eaai-conf.github.io/year/eaai-27.html) |    N/A（AAAI 系列）    |    TBD     |    TBD     |
+|                         会议名称                         |         CCF Rank         |  Abstract  | Submission |               Notification                |         Rebuttal         |
+| :------------------------------------------------------: | :----------------------: | :--------: | :--------: | :---------------------------------------: | :----------------------: |
+|   [AAAI'27](https://aaai.org/conference/aaai/aaai-27/)   |     CCF-A (人工智能)     | 2026-07-20 | 2026-07-27 | 2026-09-24 (1st) </br> 2026-11-30 (final) | 2026-10-19 ~ 2026-10-25 |
+|    [BigData'26](https://bigdataieee.org/BigData2026/)    |  CCF-C (交叉/综合/新兴)  |    N/A     | 2026-08-21 |                2026-10-24                 |           N/A            |
+| [EAAI'27](https://eaai-conf.github.io/year/eaai-27.html) | N/A（AAAI 系列教育会议） | 2026-09-01 | 2026-09-08 |                2026-11-17                 |           N/A            |
 
 有意愿投稿的同学欢迎联系课程组和助教，我们会提供相关的辅导和支持。
 
