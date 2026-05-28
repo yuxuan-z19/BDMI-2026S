@@ -22,7 +22,7 @@
     - 调研 Surveys：{SnapKV: LLM Knows What You are Looking for Before Generation}
 
 
-### [ZYX-1] LLM Agents
+### [ZYX-1 Agentic Memory](https://my.feishu.cn/docx/AxFLdnSa5o1KCPxahg7ccgrUnZb)
 
 - **课上教学 Skills taught**
     - [ ] 使用 `openai.OpenAI` client 实现多轮对话 Create a multi-round conversation using `openai.OpenAI`
@@ -43,7 +43,7 @@
         - 改进现有的智能体分析方法 Improve existing protocol for agent diagnosis
         - etc.
 
-### [ZYX-2] LLM Post-training
+### [ZYX-2 LLM Post-training](https://my.feishu.cn/docx/QJLgdSwrho26E7xPCkgcuQoJnpg)
 
 - **课上教学 Skills taught**
     - [ ] 使用 `hf` 传输模型和数据集 Transfer a model or a dataset using `hf` (to Huggingface / ModelScope)
@@ -54,17 +54,6 @@
 - **选题参考 Options**
     - 使用 LLaMA-Factory 微调模型 Finetuning a model using LLaMA-Factory
     - 使用 OpenRLHF / VeRL 通过强化学习训练模型 Train a model through reinforcement learning (RL) using OpenRLHF / VeRL
-    - etc.
-
-### [ZYX-3] Surveys on MLSys / Efficient AI
-
-- **课上教学 Skills taught**
-    - [x] (Lesson) Transformers + Attention mechanism
-
-- **选题参考 Options**
-    - CUDA Kernel Optimization：FlashAttention, FlashMLA, etc.
-    - MoE or Sparse Attention design
-    - KV Cache optimization in LLM serving
     - etc.
 
 ### [RPZ-1] Autonomous Physics-Informed Neural Networks for Battery State of Health Prediction
