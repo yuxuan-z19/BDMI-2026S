@@ -26,4 +26,18 @@
 | NeurIPS  | 12 月    | 5月      | 9月      | A           | Conference on Neural Information Processing Systems (NeurIPS)                 |
 | BigData  | 12月     | 8月      | 10月     | C           | IEEE International Conference on Big Data (Big Data)                          |
 
-> 欢迎感兴趣的同学在课程结束后继续关注这些会议，了解最新的研究进展，并尝试投稿自己的研究成果！
+欢迎感兴趣的同学在课程结束后继续关注这些会议，了解最新的研究进展，并尝试投稿自己的研究成果！
+
+特别推荐阅读 Jim Kajiya（计算机图形学奠基人）的 [How to Get Your SIGGRAPH Paper Rejected](https://www.siggraph.org/sites/default/files/kajiya.pdf) 来培养学术的 taste，总结为一句话： **如何让同行读完后发出 "Now I know how!" 的震撼**：
+
+
+> 0. 这篇论文是否具有启发性？
+Is the paper stimulating? 
+> 1. 你的论文是否可能为该领域开辟一个新的研究方向？
+Is your paper likely to create a new direction for research in the specific field? 
+> 2. 人们在读完你的论文后，是否会想要继续拓展你的想法？
+Are people going to read your paper and want to extend your ideas?
+> 3. 人们在读完你的系统论文后，是否会觉得：“对！我一直想实现这样的东西，而现在我终于知道该怎么做了。”？
+Are they going to read your system paper and say, “Yes! I’ve been wanting to implement something like this, and now I know how.”
+> 4. 你的应用型论文，是否会让人们讨论你提出的、解决某个长期难题的新方法？
+Is your application paper going to make people talk about your great new way to tackle a persistent challenge?
