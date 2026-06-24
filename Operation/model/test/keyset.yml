@@ -1,0 +1,7 @@
+candidates:
+  - "Qwen/Qwen3-4B"
+api_base: "http://101.6.160.66:11800/v1"
+api_key: "sk-KUP5iUXThgpibU5fznCsSYRj5n3DHH"
+timeout: 65536
+max_tokens: 32768
+stream: false
